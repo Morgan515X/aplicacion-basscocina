@@ -1,0 +1,3 @@
+cocinavirtualenv
+
+C:\Usurios\Lucas\webCocina> cocinavirtualenv\Scripts\activate    (Activar en virtual env de cocina)
